@@ -19,3 +19,5 @@ create zip file on your project ==> and then run nsis and click installer based 
 or
 
 download jrsoftware ==> https://jrsoftware.org/isinfo.php
+
+yorum eklendi
