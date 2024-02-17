@@ -1,0 +1,21 @@
+Convert ui to py:
+
+python -m PyQt5.uic.pyuic -x mainForm.ui -o mainForm.py
+
+---------------------------------------------------------
+Create exe file:
+
+pip install pyinstaller
+
+pyinstaller --onefile program.py
+
+----------------------------------------------------------
+Create Package and not necessary anyone file:
+
+download nsis: https://nsis.sourceforge.io/Download
+
+create zip file on your project ==> and then run nsis and click installer based on .zip file
+
+or
+
+download jrsoftware ==> https://jrsoftware.org/isinfo.php
